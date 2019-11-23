@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          KBTG AWS
+          KBTG AWS by J!!!
         </a>
       </header>
     </div>
